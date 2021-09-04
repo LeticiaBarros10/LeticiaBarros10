@@ -14,7 +14,7 @@
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   
-  <img align="right" width="200" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/catte.gif">
+  <img align="right" width="180" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/catte.gif">
   
 ##
   

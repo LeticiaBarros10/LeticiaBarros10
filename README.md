@@ -1,4 +1,4 @@
-## Olá, humanos! :metal:
+# Olá, humanos! :metal:
 
 <div>
   <a href="https://github.com/LeticiaBarros10">

@@ -23,5 +23,5 @@
   <a href="mailto:leticia.cbarros@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0000CD?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href ="mailto:leh.barros5569@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/leticia_barroslb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23C71585?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5519920020615" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://wa.me/5519920020615" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> -->
 </div>

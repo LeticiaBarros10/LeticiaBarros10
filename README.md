@@ -1,4 +1,4 @@
-# Hello, humans! <img width="50" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">
+# Hello, humans! <img width="30" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">
 
 <div>
   <a href="https://github.com/LeticiaBarros10">

@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/LeticiaBarros10">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeticiaBarros10&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&bg_color=1e1a1a&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBarros10&layout=compact&langs_count=7&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&bg_color=1e1a1a"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeticiaBarros10&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&bg_color=1e1a1a&border_radius=40px&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaBarros10&layout=compact&langs_count=7&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&bg_color=1e1a1a&border_radius=20px"/>
 </div>
 
 <div style="display: inline_block"><br>

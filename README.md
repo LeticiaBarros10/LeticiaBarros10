@@ -1,6 +1,8 @@
 # _Hey! Welcome, humans!_ <img width="30" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">
 
-### _I'm Leticia and I'm glad you're visiting my GitHub._ :octocat:
+## _I'm Leticia and I'm glad you're visiting my GitHub._ :octocat:
+
+### _About me :_
 
 - 🎓 _I'm currently learning Front-end at SENAI ;_
 - ❤️ _I love : 🐺 Animals / 🔭 Astronomy / 🎲 Board Games / 📚 Books / 🍣 Japanese Food / 🌐 Learn other Languages / 🌳 Nature / 📖 Poetry / 🎸 Rock n' Roll / 🌎 Travel / 🙋 Volunteer Work / 💻 Watch Documentaries, Movies and TV Series / 🍷 Wine ._

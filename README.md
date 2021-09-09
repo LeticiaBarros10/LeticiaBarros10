@@ -1,4 +1,4 @@
-# _Hey! Welcome, humans!_ <img width="30" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">
+# _Hey ! Welcome, humans !_ <img width="30" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">
 
 ## _I'm Leticia and I'm glad you're visiting my GitHub._ :octocat:
 

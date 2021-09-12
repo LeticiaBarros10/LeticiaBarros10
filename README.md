@@ -4,7 +4,7 @@
 
 ### _About me :_
 
-- 🎓 _I'm currently learning Front-end at SENAI ;_
+- 🎓 _I'm currently learning Front-end on SENAI ;_
 - ❤️ _I love : 🐺 Animals / 🔭 Astronomy / 🎲 Board Games / 📚 Books / 🍣 Japanese Food / 🌐 Learn other Languages / 🌳 Nature / 📖 Poetry / 🎸 Rock n' Roll / 🌎 Travel / 💻 Watch Documentaries, Movies and TV Series / 🍷 Wine ._
 
 <div>

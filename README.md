@@ -15,5 +15,3 @@
   <img align="center" alt="VScode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-  
-  <img align="right" width="180" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/catte.gif">
